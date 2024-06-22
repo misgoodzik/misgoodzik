@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @misgoodzik
+- 👀 I am interested in Emergency Medical Services
+- 🌱 I am currently studying at the Secondary School of Medical Rescue
+- 💞️ I want to collaborate on large administrative projects or assembly :)
+- 📫 How to get to me - kontakt@misgoodzik.fun
+- ⚡ Instagram - @misgoodzik
