@@ -27,10 +27,10 @@ I'm a passionate full-stack developer with a love for clean code, creative front
 
 ## 🤝 Let’s Connect
 
-- 📸 [Instagram](https://instagram.com/misgoodzik) – @misgoodzik  
+- 📸 [Instagram](https://instagram.com/misgoodzik)
 - 💼 [LinkedIn](https://www.linkedin.com/in/misgoodzik/)  
 - 🌐 [Portfolio](https://mtokarczyk.studio)  
-- 📬 Contact: kontakt@mtokarczyk.studio
+- 📬 Contact: 📬 [kontakt@mtokarczyk.studio](mailto:kontakt@mtokarczyk.studio)
 
 ---
 
