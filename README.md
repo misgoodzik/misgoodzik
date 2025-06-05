@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with a love for clean code, creative front
 
 ## 🛠 My Tech Stack
 
-- **Languages & Markup**: HTML, CSS, JavaScript, PHP  
+- **Languages & Markup**: HTML, CSS, JavaScript, PHP, Lua
 - **Frameworks**: React, Vue.js, Laravel, Next.js  
 - **Other**: REST APIs, WebSockets, Cordova, MySQL, Expo
 
