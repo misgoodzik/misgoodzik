@@ -6,8 +6,11 @@ I'm a passionate full-stack developer with a love for clean code, creative front
 
 ## 💻 Projects I’m Proud Of
 
-- 🎮 **[FiveCity](https://fivecity.net)** – Front-end Development  
+- 🎮 **[FiveCity](https://fivecity.net)** – Front-end Development
   A next-level FiveM gaming experience.
+
+- 🚀 **[Project NXT](https://discord.gg/nxtrp)** – Fullstack Development
+  Innovative roleplay platform for FiveM. Built for performance, scalability, and immersive gameplay.
 
 - 🛠 **[Fabryka Siana](https://fabrykasiana.pl)** – Full-stack Development  
   Custom SMS & email automation system.
